@@ -1,8 +1,8 @@
 # Base configs
-baseurl: 
+baseurl: "nnsriram97.github.io"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: ""
 
 # UI configs
 title: "Photography by Sriram Narayanan"
@@ -12,8 +12,8 @@ header:
  title: "Photography"
  subtitle: "by Sriram"
 footer:
- name: "Hey there, my name is Sriram"
- bio: "I am a PhD student at CMU. I work on computer vision and imaging in my research which got me excited to explore photography."
+ name: "Hey there! I'm Sriram"
+ bio: "I'm a PhD student at Carnegie Mellon University specializing in computer vision. My passion for creating compelling visuals in academic settings naturally extends to photography. I’m drawn to photography because I love the challenge of capturing moments and the creativity involved in editing them to highlight their beauty."
  github: ""
 web_design: "Ram Patra"
 social_urls:
