@@ -5,21 +5,21 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
-title: "Photography by Sriram Narayanan"
+title: "Photography by Long Giang Vu"
 subtitle: "See the world through my eyes!"
-author: "Sriram Narayanan"
+author: "Long Giang Vu"
 header:
  title: "Photography"
- subtitle: "by Sriram"
+ subtitle: "by Long-Giang"
 footer:
- name: "Hey there! I'm Sriram"
- bio: "I'm a PhD student at Carnegie Mellon University specializing in computer vision. My passion for creating compelling visuals in academic settings naturally extends to photography. I’m drawn to photography because I love the challenge of capturing moments and the creativity involved in editing them to highlight their beauty."
+ name: "Hey there! I'm Long Giang (Leo)"
+ bio: "I'm a Masters student at University of California, San Diego specializing in computer science."
  github: ""
 web_design: "Ram Patra"
 social_urls:
-  twitter: "https://www.twitter.com/nnsriram97"
-  linkedin: "https://www.linkedin.com/in/sriram-narayanan-777a0010b/"
-  github: "https://www.github.com/nnsriram97"
+  twitter: "https://x.com/leovulong"
+  linkedin: "https://www.linkedin.com/in/long-giang-vu-735421174/"
+  github: "https://github.com/ginlov"
 # mini_magick:
 #     thumbnail:
 #         source: ./images/fulls # source directory - change this to whatever you want
